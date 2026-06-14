@@ -35,7 +35,7 @@ India faces frequent floods, earthquakes, and cyclones that disrupt railway oper
 - **Camera**: OV2640 Camera Module (Computer Vision)
 - **Drone Interface**: Dedicated ESC connectors for drone swarm
 
-**KiCad Files**: [Schematic](Shinkansen_Swarm_Control_Board.pdf) | [PCB](hardware/Shinkansen_Swarm_Control_Board.kicad_pcb)
+**KiCad Files**: [Schematic](Shinkansen_Swarm_Control_Board.pdf.pdf) | [PCB](hardware/Shinkansen_Swarm_Control_Board.kicad_pcb)
 
 ![Schematic](hardware/schematic.png)
 ![3D View](hardware/3d_view.png)
